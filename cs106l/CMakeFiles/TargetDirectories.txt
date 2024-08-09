@@ -1,0 +1,7 @@
+/home/tux/cs106l/cs106l/CMakeFiles/cs106l.dir
+/home/tux/cs106l/cs106l/CMakeFiles/edit_cache.dir
+/home/tux/cs106l/cs106l/CMakeFiles/rebuild_cache.dir
+/home/tux/cs106l/cs106l/CMakeFiles/list_install_components.dir
+/home/tux/cs106l/cs106l/CMakeFiles/install.dir
+/home/tux/cs106l/cs106l/CMakeFiles/install/local.dir
+/home/tux/cs106l/cs106l/CMakeFiles/install/strip.dir

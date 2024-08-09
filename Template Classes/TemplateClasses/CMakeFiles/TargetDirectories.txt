@@ -1,0 +1,7 @@
+/home/tux/cs106l/Template Classes/TemplateClasses/CMakeFiles/TemplateClasses.dir
+/home/tux/cs106l/Template Classes/TemplateClasses/CMakeFiles/edit_cache.dir
+/home/tux/cs106l/Template Classes/TemplateClasses/CMakeFiles/rebuild_cache.dir
+/home/tux/cs106l/Template Classes/TemplateClasses/CMakeFiles/list_install_components.dir
+/home/tux/cs106l/Template Classes/TemplateClasses/CMakeFiles/install.dir
+/home/tux/cs106l/Template Classes/TemplateClasses/CMakeFiles/install/local.dir
+/home/tux/cs106l/Template Classes/TemplateClasses/CMakeFiles/install/strip.dir
