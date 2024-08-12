@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/marriagepact_starter.dir/main.cpp.o CMakeFiles/marriagepact_starter.dir/class.cpp.o -o marriagepact_starter
