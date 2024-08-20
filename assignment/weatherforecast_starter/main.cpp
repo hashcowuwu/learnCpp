@@ -20,6 +20,13 @@ template<typename Function>
 std::vector<double> get_forecast(std::vector<std::vector<double>> readings, Function fn) {
     // TODO: write get_forecast here!
 
+  std::vector<double>res;
+  for(int i = 0 ; i < readings.size() ; ++ i ) {
+    for (int j = 0 ; j < readings[i].size() ; ++ i ) {
+
+    }
+  }
+
 }
 
 int main() {
