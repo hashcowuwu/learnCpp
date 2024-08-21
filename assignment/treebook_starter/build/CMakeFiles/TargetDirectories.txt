@@ -1,7 +1,0 @@
-/home/tux/cs106l/assignment/treebook_starter/build/CMakeFiles/treebook_starter.dir
-/home/tux/cs106l/assignment/treebook_starter/build/CMakeFiles/edit_cache.dir
-/home/tux/cs106l/assignment/treebook_starter/build/CMakeFiles/rebuild_cache.dir
-/home/tux/cs106l/assignment/treebook_starter/build/CMakeFiles/list_install_components.dir
-/home/tux/cs106l/assignment/treebook_starter/build/CMakeFiles/install.dir
-/home/tux/cs106l/assignment/treebook_starter/build/CMakeFiles/install/local.dir
-/home/tux/cs106l/assignment/treebook_starter/build/CMakeFiles/install/strip.dir
