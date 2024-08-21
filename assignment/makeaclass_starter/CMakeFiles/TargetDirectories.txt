@@ -1,7 +1,0 @@
-/home/tux/cs106l/assignment/makeaclass_starter/CMakeFiles/marriagepact_starter.dir
-/home/tux/cs106l/assignment/makeaclass_starter/CMakeFiles/edit_cache.dir
-/home/tux/cs106l/assignment/makeaclass_starter/CMakeFiles/rebuild_cache.dir
-/home/tux/cs106l/assignment/makeaclass_starter/CMakeFiles/list_install_components.dir
-/home/tux/cs106l/assignment/makeaclass_starter/CMakeFiles/install.dir
-/home/tux/cs106l/assignment/makeaclass_starter/CMakeFiles/install/local.dir
-/home/tux/cs106l/assignment/makeaclass_starter/CMakeFiles/install/strip.dir

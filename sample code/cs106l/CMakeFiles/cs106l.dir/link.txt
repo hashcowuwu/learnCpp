@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/cs106l.dir/main.cpp.o -o cs106l
