@@ -3,23 +3,9 @@
 #include "user.h"
 
 // TODO: Implement the non-member function + operator overload here!
-
-void User::operator+(User&& other) {
-
-    std::set<User>tmp;
-    for (auto&& i : this->getFriends()) {
-        if(!tmp.count(i)) {
-            tmp.insert(i);
-        }
-    }
-    for (auto&& i : other.getFriends()) {
-        if(!tmp.count(i)) {
-            tmp.insert(i);
-        }
-    }
-    this->setFriend(tmp);
-    other.setFriend(tmp);
-
+void operator+(User& lhs,User& rhs) {//main.cpp里以非成员函数重载
+    lhs.friends.insert(rhs.getName());
+    rhs.friends.insert(lhs.getName());
 }
 
 
