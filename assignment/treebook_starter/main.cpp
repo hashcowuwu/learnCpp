@@ -1,7 +1,26 @@
 #include <iostream>
+#include <set>
 #include "user.h"
 
 // TODO: Implement the non-member function + operator overload here!
+
+void User::operator+(User&& other) {
+
+    std::set<User>tmp;
+    for (auto&& i : this->getFriends()) {
+        if(!tmp.count(i)) {
+            tmp.insert(i);
+        }
+    }
+    for (auto&& i : other.getFriends()) {
+        if(!tmp.count(i)) {
+            tmp.insert(i);
+        }
+    }
+    this->setFriend(tmp);
+    other.setFriend(tmp);
+
+}
 
 
 void printFriends(const User& user) {
