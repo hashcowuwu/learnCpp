@@ -2,7 +2,7 @@
 #define ARRAY_HH
 
 template <typename T>
-class Array{
+class Array {
 public:
     Array(T val);
     T getVal() const;
@@ -11,6 +11,7 @@ private:
     T value;
 };
 
+// 包含实现文件
 #include "Array.cpp"
 
-#endif // ARRAY_H
+#endif // ARRAY_HH
